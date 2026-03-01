@@ -1,0 +1,1 @@
+java -cp C:\Users\Wei\projects\java_projects\Kate\project5\target\classes project5.BinaryTreeMaze C:\Users\Wei\projects\java_projects\Kate\project5\src\main\resources\Maze.txt
